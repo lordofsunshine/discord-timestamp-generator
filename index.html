@@ -38,29 +38,27 @@
                                         <option value="F">Long Date with Day of the Week and Short Date</option>
                                     </select>
                                 </div>
-                                <br>
                             </form>
                         </div>
                     </div>
-                  
-                  <div>
-                    <div class="chat-message">
-                        <div class="user-info">
-                            <img src="https://mir-s3-cdn-cf.behance.net/projects/404/a2ed2b162847375.Y3JvcCw5MjAsNzIwLDE4MCww.png" alt="Profile Picture" class="profile-pic">
-                            <span class="username">Wumpus</span>
-                            <span class="timestamp">Yesterday at 10:57 PM</span>
+                    <div class="example">
+                        <div class="chat-message">
+                            <div class="user-info">
+                                <img src="https://mir-s3-cdn-cf.behance.net/projects/404/a2ed2b162847375.Y3JvcCw5MjAsNzIwLDE4MCww.png" alt="Profile Picture" class="profile-pic">
+                                <span class="username">Wumpus</span>
+                                <span class="timestamp" id="current-timestamp"></span>
+                            </div>
+                            <div class="message-content">
+                                <p id="timestamp-output">Thursday, June 27, 2024 2:55 AM</p>
+                            </div>
                         </div>
-                        <div class="message-content">
-                            <p id="timestamp-output">Thursday, June 27, 2024 2:55 AM</p>
+                        <div class="input-group">
+                            <input type="text" id="result" class="form-control" readonly>
+                            <span class="input-group-addon" onclick="copy()">
+                                <i class="fa fa-clipboard"></i>
+                            </span>
                         </div>
                     </div>
-                  <div class="input-group">
-                      <input type="text" id="result" class="form-control" readonly>
-                      <span class="input-group-addon" onclick="copy()">
-                          <i class="fa fa-clipboard"></i>
-                      </span>
-                  </div>
-              </div>
                 </div>
             </div>
         </div>
