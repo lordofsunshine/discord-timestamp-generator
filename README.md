@@ -18,7 +18,11 @@ Welcome to the Discord Timestamp Generator, an open-source project designed to s
 
 ### Screenshot:
 
-<img src="https://cdn.glitch.global/a2b50095-8314-4c25-87ec-f329e288b61f/72?v=1719587837780" alt="preview">
+<img src="https://cdn.glitch.global/a2b50095-8314-4c25-87ec-f329e288b61f/73?v=1719589353423" alt="preview">
+
+### Video-Preview:
+
+<a href="https://cdn.glitch.global/a2b50095-8314-4c25-87ec-f329e288b61f/74.mp4?v=1719589414173" title="Preview"><img src="https://cdn.glitch.global/a2b50095-8314-4c25-87ec-f329e288b61f/75.jpg?v=1719589581877" alt="Preview" /></a>
 
 ### Contributing
 
