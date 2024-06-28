@@ -107,4 +107,11 @@ p::first-letter {
 	.timestamp-block {
 			margin-block-start: 100px;
 	}
+	.example {
+		margin: 30px 0;
+		width: 100%;
+	}
+	.chat-message {
+			width: 100%;
+	}
 }
