@@ -4,10 +4,10 @@ Welcome to the Discord Timestamp Generator, an open-source project designed to s
 
 ### Features
 
-- Multiple Timestamp Formats: Generate timestamps in formats such as short date, long date, short time, long time, relative time, and more.
-- Real-Time Preview: Instantly view the formatted timestamp as you input the date and time.
-- Easy Copy to Clipboard: Quickly copy the generated timestamp with a single click.
-- Responsive Design: User-friendly interface that works seamlessly on both desktop and mobile devices.
+- **Multiple Timestamp Formats:** Generate timestamps in formats such as short date, long date, short time, long time, relative time, and more.
+- **Real-Time Preview:** Instantly view the formatted timestamp as you input the date and time.
+- **Easy Copy to Clipboard:** Quickly copy the generated timestamp with a single click.
+- **Responsive Design:** User-friendly interface that works seamlessly on both desktop and mobile devices.
 
 ### How to Use
 
